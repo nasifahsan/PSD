@@ -85,30 +85,35 @@ a {
 }
 
 .sec-3 {
-padding-top: 100px;
-padding: 0px 0px 0px 50px;
-padding-bottom: 50px;
+    padding-top: 100px;
+    padding: 0px 0px 0px 50px;
+    padding-bottom: 50px;
 }
-.sec-3 h1{
- padding-top: 100px;
+
+.sec-3 h1 {
+    padding-top: 100px;
 }
-.sec-3 p{
-padding-top: 20px;
-line-height: 30px;
+
+.sec-3 p {
+    padding-top: 20px;
+    line-height: 30px;
 }
-.sec-3 ul{
-padding-top: 20px;
-padding-bottom: 20px;
+
+.sec-3 ul {
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
-.col-1{
+
+.col-1 {
     width: 50%;
     display: inline-block;
 }
-.col-2{
+
+.col-2 {
     width: 50%;
-    
     float: right;
 }
+
 .btn-3 {
     background-color: aqua;
     padding: 8px 30px;
@@ -119,96 +124,105 @@ padding-bottom: 20px;
     box-shadow: 6px 2px 5px 0px;
     color: gray;
 }
-.btn-3 a{
+
+.btn-3 a {
     text-decoration: none;
+    color: white;
+    font-size: 16px;
 }
-ul{
+
+ul {
     list-style: none;
 }
-ul li{
+
+ul li {
     font-size: 15px;
     padding: 10px;
     font-family: 'Montserrat';
 }
-ul li i{
+
+ul li i {
     font-size: 20px;
     padding-right: 15px;
     color: yellow;
 }
-.sec-4{
+
+.sec-4 {
     padding-top: 100px;
     padding-bottom: 50px;
-    
 }
-.sec-4 h1{
+
+.sec-4 h1 {
     text-align: center;
     padding-bottom: 50px;
-    
 }
-.sec-4 h2{
+
+.sec-4 h2 {
     padding-bottom: 10px;
     padding-top: 10px;
     font-size: 25px;
 }
-.sec-4 p{
+
+.sec-4 p {
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
 }
-.col-3{
+
+.col-3 {
     width: 33%;
     display: inline-block;
     text-align: center;
     background: whitesmoke;
-    border: 1px solid white;
+    border: 1px solid ghostwhite;
     padding: 20px 0px 30px 0px;
-    
 }
-.col-4{
+
+.col-4 {
     width: 33%;
     display: inline-block;
     text-align: center;
     background: whitesmoke;
-    border: 1px solid white;
+    border: 1px solid ghostwhite;
     padding: 30px 0px 30px 0px;
-   
 }
-.col-5{
+
+.col-5 {
     width: 33%;
     display: inline-block;
     text-align: center;
     background: whitesmoke;
-    border: 1px solid white;
+    border: 1px solid ghostwhite;
     padding: 30px 0px 30px 0px;
-    
 }
-.col-6{
+
+.col-6 {
     width: 33%;
     display: inline-block;
     text-align: center;
     background: whitesmoke;
-    border: 1px solid white;
+    border: 1px solid ghostwhite;
     padding: 30px 0px 30px 0px;
     margin-top: 20px;
- 
 }
-.col-7{
+
+.col-7 {
     width: 33%;
     display: inline-block;
     text-align: center;
     background: whitesmoke;
-    border: 1px solid white;
+    border: 1px solid ghostwhite;
     padding: 30px 0px 30px 0px;
-   
 }
-.col-8{
+
+.col-8 {
     width: 33%;
     display: inline-block;
     text-align: center;
     background: whitesmoke;
-    border: 1px solid white;
+    border: 1px solid ghostwhite;
     padding: 30px 0px 30px 0px;
-    
 }
+
 .btn-4 {
     background-color: aqua;
     padding: 8px 30px;
@@ -217,10 +231,43 @@ ul li i{
     border: none;
     box-shadow: 2px 0px 4px 0px;
     color: gray;
-    
 }
-.btn-4 a{
+
+.btn-4 a {
     text-decoration: none;
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
+    color: white;
+    font-size: 16px;
+}
+
+.sec-5 {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-image: url(../img/bg-section-traveler.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    color: white;
+}
+
+.sec-5 h1 {
+    padding-bottom: 20px;
+}
+
+.btn-5 {
+    background-color: aqua;
+    padding: 8px 30px;
+    display: inline-block;
+    margin-top: 20px;
+    border: none;
+}
+
+.btn-5 a {
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    color: white;
+    font-size: 18px;
 }
