@@ -409,7 +409,8 @@ ul li i {
     margin-top: 15px;
     border: 1px solid aqua;
 }
-.footer{
+
+.footer {
     background: black;
     margin-top: 5%;
     color: white;
@@ -417,7 +418,8 @@ ul li i {
     padding-top: 15px;
     padding-bottom: 15px;
 }
-.footer a{
+
+.footer a {
     text-decoration: none;
     color: white;
 }
