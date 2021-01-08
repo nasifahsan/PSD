@@ -351,3 +351,26 @@ ul li i {
     font-weight: bold;
     font-size: 18px;
 }
+.sec-8{
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+.sec-8f{
+    width: 50%;
+    display: inline-block;
+}
+.sec-8 form input{
+    width: 100%;
+    padding: 15px;
+    border: none;
+    margin: 4% 0% 0% 0%;
+    border-bottom: 1px solid aqua;
+}
+.sec-8 form textarea{
+    width: 100%;
+}
+.sec-8 p {
+ padding: 20px;
+}
+
