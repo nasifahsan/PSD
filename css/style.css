@@ -409,3 +409,15 @@ ul li i {
     margin-top: 15px;
     border: 1px solid aqua;
 }
+.footer{
+    background: black;
+    margin-top: 5%;
+    color: white;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.footer a{
+    text-decoration: none;
+    color: white;
+}
