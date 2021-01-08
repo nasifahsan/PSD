@@ -332,7 +332,6 @@ ul li i {
 .sec-7 {
     padding-top: 100px;
     text-align: center;
-    padding-bottom: 50px;
 }
 
 .sec-7 p {
@@ -351,26 +350,62 @@ ul li i {
     font-weight: bold;
     font-size: 18px;
 }
-.sec-8{
+
+.sec-8 {
     text-align: center;
     padding-top: 100px;
     padding-bottom: 50px;
 }
-.sec-8f{
+
+.sec-8f {
     width: 50%;
     display: inline-block;
 }
-.sec-8 form input{
+
+.sec-8 form input {
     width: 100%;
     padding: 15px;
     border: none;
     margin: 4% 0% 0% 0%;
     border-bottom: 1px solid aqua;
 }
-.sec-8 form textarea{
+
+.sec-8 form textarea {
     width: 100%;
-}
-.sec-8 p {
- padding: 20px;
+    margin-top: 10%;
+    border: none;
+    border-bottom: 1px solid aqua;
 }
 
+.sec-8 p {
+    padding: 20px;
+}
+
+::placeholder {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+
+.btn-7 {
+    padding: 8px 30px;
+    border-radius: 25px;
+    margin-top: 50px;
+    border: 1px solid aqua;
+    background: white;
+    font-size: 15px;
+    float: right;
+}
+
+.btn-7 a {
+    text-decoration: none;
+    color: black;
+}
+
+.hr1 {
+    font-size: 20px;
+    width: 3%;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 15px;
+    border: 1px solid aqua;
+}
