@@ -310,6 +310,7 @@ ul li i {
 .sec-6 {
     padding-top: 100px;
     text-align: center;
+    padding-bottom: 50px;
 }
 
 .sec-6 h1 {
@@ -370,10 +371,11 @@ ul li i {
 .sec-7 {
     padding-top: 100px;
     text-align: center;
+    padding-bottom: 50px;
 }
 
 .sec-7 p {
-    padding-top: 25px;
+    padding-top: 30px;
     line-height: 28px;
     font-size: 16px;
 }
