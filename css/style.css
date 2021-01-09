@@ -30,14 +30,15 @@ a {
 
 .sec-1 h1 {
     color: aqua;
-    font-size: 36px;
+    font-size: 50px;
     padding-top: 50px;
 }
 
 .sec-1 p {
     color: white;
-    font-size: 35px;
+    font-size: 22px;
     padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 .btn-1 {
@@ -52,6 +53,7 @@ a {
 .btn-1 a {
     text-decoration: none;
     color: white;
+    font-size: 16px;
 }
 
 .btn-2 {
@@ -66,6 +68,7 @@ a {
 .btn-2 a {
     text-decoration: none;
     color: white;
+    font-size: 16px;
 }
 
 .sec-2 {
@@ -169,58 +172,67 @@ ul li i {
 }
 
 .col-3 {
-    width: 33%;
+    width: 31%;
     display: inline-block;
     text-align: center;
     background: whitesmoke;
     border: 1px solid ghostwhite;
     padding: 20px 0px 30px 0px;
+    margin-left: 32px;
 }
 
 .col-4 {
-    width: 33%;
+    width: 31%;
     display: inline-block;
     text-align: center;
     background: whitesmoke;
     border: 1px solid ghostwhite;
     padding: 30px 0px 30px 0px;
+    margin-left: 10px;
+    
 }
 
 .col-5 {
-    width: 33%;
+    width: 31%;
     display: inline-block;
     text-align: center;
     background: whitesmoke;
     border: 1px solid ghostwhite;
     padding: 30px 0px 30px 0px;
+    margin-left: 10px;
+    
 }
 
 .col-6 {
-    width: 33%;
+    width: 31%;
     display: inline-block;
     text-align: center;
     background: whitesmoke;
     border: 1px solid ghostwhite;
     padding: 30px 0px 30px 0px;
     margin-top: 20px;
+    margin-left: 32px;
 }
 
 .col-7 {
-    width: 33%;
+    width: 31%;
     display: inline-block;
     text-align: center;
     background: whitesmoke;
     border: 1px solid ghostwhite;
     padding: 30px 0px 30px 0px;
+    margin-left: 10px;
+    
 }
 
 .col-8 {
-    width: 33%;
+    width: 31%;
     display: inline-block;
     text-align: center;
     background: whitesmoke;
     border: 1px solid ghostwhite;
     padding: 30px 0px 30px 0px;
+    margin-left: 10px;
 }
 
 .btn-4 {
@@ -275,7 +287,6 @@ ul li i {
 .sec-6 {
     padding-top: 100px;
     text-align: center;
-    padding-bottom: 50px;
 }
 
 .sec-6 h1 {
@@ -335,7 +346,7 @@ ul li i {
 }
 
 .sec-7 p {
-    padding-top: 30px;
+    padding-top: 25px;
     line-height: 28px;
     font-size: 16px;
 }
